@@ -137,8 +137,8 @@ body {
     font-size: 16px;
 }
 
-#quizz-container .wrong-answers,
-#quizz-container .wrong-answers .btn-letter {
+#quizz-container .wrong-answer,
+#quizz-container .wrong-answer .btn-letter {
     background-color: #e62210;
     color: #fff;
 }
